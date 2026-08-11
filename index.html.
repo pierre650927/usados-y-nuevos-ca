@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Usados y Nuevos C.A.</title>
+    <style>
+        body {
+            background-color: #0b0f19;
+            color: #00ffcc;
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 3rem;
+            text-shadow: 0 0 10px #00ffcc;
+        }
+        p {
+            font-size: 1.2rem;
+            color: #88ccff;
+        }
+        .box {
+            border: 2px dashed #00ffcc;
+            padding: 20px;
+            margin-top: 30px;
+            display: inline-block;
+            background: rgba(0, 255, 204, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <h1>USADOS Y NUEVOS C.A.</h1>
+    <p>>> ARCHIVO PRINCIPAL DE CATALOGO - SISTEMA EN LINEA <<</p>
+    <div class="box">
+        <h3>SISTEMA CARGADO CON ÉXITO</h3>
+        <p>Pronto aquí verás desplegadas todas tus fotos, artículos y precios con estilo futurista.</p>
+    </div>
+</body>
